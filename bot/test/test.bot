@@ -1,0 +1,10 @@
+#La estructura principal del programa es define main()->
+define main () ->
+	> 1; 	# Mueve 1 espacios hacia la derecha
+	P; 		# Recoge (pick) el objeto
+	V 2; 	# Mueve 2 espacios hacia abajo
+	D; 		# Bota (drop) el objeto
+	V 2; 	# Mueve 2 espacios hacia abajo
+	
+
+end;
